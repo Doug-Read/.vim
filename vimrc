@@ -12,4 +12,8 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
+" updatetime default is 4s -- we set it to 250ms for best experience with vim-gitgutter
+set updatetime=250
+
+" This paste option is still in trial
 set paste

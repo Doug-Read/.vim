@@ -4,3 +4,6 @@
 [submodule "bundle/vim-lastplace"]
 	path = bundle/vim-lastplace
 	url = https://github.com/dietsche/vim-lastplace.git
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
