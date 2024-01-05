@@ -1,4 +1,5 @@
 ## Installation
+P
 
 `git clone git://github.com/nelstrom/dotvim.git ~/.vim`
 
